@@ -7,4 +7,4 @@ Der ehemalige Auftragskiller John Wick hat gerade seine Frau Helen verloren, die
 * gut gekleidet
 * immer etwas auf der Seite
 
-> \"Nein, ich muss nur ein paar Sachen regeln.\"
+> "Nein, ich muss nur ein paar Sachen regeln."
