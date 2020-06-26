@@ -6,3 +6,5 @@ Der ehemalige Auftragskiller John Wick hat gerade seine Frau Helen verloren, die
 * treffsicher
 * gut gekleidet
 * immer etwas auf der Seite
+John:
+> "Nein, ich muss nur ein paar Sachen regeln."
